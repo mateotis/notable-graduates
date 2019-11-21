@@ -1,33 +1,984 @@
 wikidata_code_B,education
+Q41309,['University of Music and Performing Arts Vienna']
+Q83326,['Franz Liszt Academy of Music']
+Q44003,['University of Vienna']
 Q57641,"['Teleki Blanka high school and junior high school', 'Eötvös Loránd University']"
+Q151523,"['Humboldt University of Berlin', 'Eötvös Loránd University']"
+Q173746,['Eötvös Loránd University']
+Q117144,['Reformed College of Debrecen']
+Q59736,['University of Vienna']
+Q78494,['University of Vienna']
+Q81219,"['Fasori Gimnázium', 'Piarist Gymnasium of Budapest', 'Pápai Református Kollegium']"
+Q54030,['University of Padua']
+Q157040,['Eötvös Loránd University']
+Q128085,['Franz Liszt Academy of Music']
+Q153008,['Franz Liszt Academy of Music']
+Q36951,"['Pázmány Péter Catholic University', 'Leipzig University', 'Eötvös Loránd University']"
+Q191917,['Prague Conservatory']
+Q296809,['University of Geneva']
+Q296249,"['Moscow State University', 'University of Debrecen']"
+Q318029,['Eötvös Loránd University']
+Q151646,['Babeș-Bolyai University']
+Q155786,"['Humboldt University of Berlin', 'Budapest University of Technology and Economics']"
+Q211392,"['University of Debrecen', 'Eötvös Loránd University']"
+Q313359,"['University of Szeged', 'Franz Joseph University']"
+Q156473,['Theresian Military Academy']
 Q312944,['University of Theatre and Film Arts']
+Q163087,['Eötvös Loránd University']
+Q159976,"['University of Music and Theatre Leipzig', 'University of Music and Performing Arts Vienna']"
+Q213712,['École nationale supérieure des Beaux-Arts']
+Q89394,"['Charles University', 'Johns Hopkins University', 'McGill University']"
+Q162655,['']
+Q231948,['University of Debrecen']
 Q164106,['Eötvös Loránd University']
+Q177610,['Eötvös Loránd University']
+Q316556,['Reformed College of Debrecen']
+Q16924,['Theresian Military Academy']
 Q191337,"['ELTE Apáczai Csere János Gyakorló Gimnázium és Kollégium', 'Türr István Gimnázium és Kollégium', 'University of Pécs']"
+Q55218,['University of Theatre and Film Arts']
+Q335466,['University of Vienna']
+Q235125,['Eötvös Loránd University']
+Q102200,['Eötvös Loránd University']
+Q346703,['Eötvös Loránd University']
+Q332482,"['Eötvös Loránd University', 'Gymnasium of Cistercian Order of the Louis the Great']"
 Q427319,['Franz Liszt Academy of Music']
+Q442801,['University of Szeged']
+Q472270,['Eötvös Loránd University']
+Q186089,"['Moholy-Nagy University of Art and Design', 'Budapest University of Technology and Economics']"
+Q48184,['Franz Liszt Academy of Music']
+Q332484,['Eötvös Loránd University']
+Q336493,"['University of Oxford', 'Humboldt University of Berlin', 'Heidelberg University', 'Eötvös Loránd University']"
+Q551652,"['Academy of Fine Arts Vienna', 'Academy of Fine Arts, Munich', 'Kunstakademie Düsseldorf', 'Hungarian University of Fine Arts']"
+Q963628,['University of Theatre and Film Arts']
+Q259240,"['University of Theatre and Film Arts', 'University of Szeged']"
 Q512062,"['University of Szeged', 'Eötvös Loránd University']"
+Q155684,['Rostov State Economics University']
+Q355907,['Eötvös Loránd University']
+Q335153,['London School of Economics and Political Science']
 Q57467,"['Révai Miklós Gimnázium', 'Eötvös Loránd University']"
+Q355291,['University of Göttingen']
+Q316820,['Franz Liszt Academy of Music']
+Q238716,['Eötvös Loránd University']
+Q221903,"['Sárospatak Reformed College', '']"
+Q374674,"['Eötvös Loránd University', 'Humboldt University of Berlin', 'Leiden University', 'Leipzig University']"
+Q323331,"['Stuyvesant High School', 'Courant Institute of Mathematical Sciences']"
+Q184810,"['Corvinus University of Budapest', 'University of Physical Education']"
+Q323260,['Heidelberg University']
 Q667655,"['Béla III High School', 'University of Southern California']"
+Q360094,['University of Padua']
+Q508823,['']
+Q469963,['Eötvös Loránd University']
+Q55230,"['Charles University', 'University of Stuttgart']"
+Q227312,['University of Debrecen']
+Q557561,"['Eötvös Loránd University', 'Humboldt University of Berlin', 'University of Edinburgh']"
+Q381107,['University of Paris (1896-1968)']
+Q344780,['Eötvös Loránd University']
 Q218958,['Franz Liszt Academy of Music']
 Q285833,"['Piarist Gymnasium of Budapest', 'Pázmány Péter Catholic University', '', 'Central seminary (Budapest)', 'Pontifical Lateran University', '']"
 Q6495014,['New York University Tisch School of the Arts']
+Q506973,['Eötvös Loránd University']
+Q176170,['Eötvös Loránd University']
+Q444423,['University of Pécs']
+Q239214,['University of Music and Performing Arts Vienna']
+Q453876,"['', 'University of Theatre and Film Arts']"
+Q570810,"['Piarist Gymnasium of Budapest', 'Eötvös Loránd University']"
+Q529130,"['Theresianum', 'Eötvös Loránd University', '']"
+Q326823,['Eötvös Loránd University']
+Q315589,['Franz Liszt Academy of Music']
+Q559828,"['Pontifical Gregorian University', 'University of Vienna']"
+Q702016,['University of Zagreb']
+Q389851,['Franz Liszt Academy of Music']
+Q428042,['Franz Liszt Academy of Music']
+Q205642,"['Eötvös Loránd University', 'University of Strasbourg']"
+Q257427,['Gerasimov Institute of Cinematography']
+Q454688,['Franz Liszt Academy of Music']
+Q520053,['Eötvös Loránd University']
+Q470011,['Eötvös Loránd University']
 Q933913,['University of Music and Performing Arts Vienna']
 Q725467,"['University of Bucharest', 'Boston University', 'Eötvös Loránd University']"
+Q179735,['Eötvös Loránd University']
 Q742429,['Gymnasium of Cistercian Order of the Louis the Great']
 Q273962,"['Corvinus University of Budapest', 'University of Theatre and Film Arts']"
+Q252311,['University of Göttingen']
+Q313443,['Budapest University of Technology and Economics']
 Q537284,"['University of Theatre and Film Arts', 'University of Theatre and Film Arts']"
+Q152335,"['', 'University of Pécs']"
+Q551538,['University of Vienna']
+Q380366,"['University of Zurich', 'University of Göttingen', 'Eötvös Loránd University']"
 Q273974,['Humboldt University of Berlin']
+Q465715,"['University of Szeged', 'Eötvös Loránd University']"
+Q294065,"['Budapest University of Technology and Economics', 'Bauakademie']"
+Q655293,['École nationale supérieure des Beaux-Arts']
+Q218979,"['Budai Ciszterci Szent Imre Gimnázium', 'Budapest University of Technology and Economics']"
+Q503253,"['Franz Liszt Academy of Music', 'Accademia nazionale di Santa Cecilia']"
+Q188225,['Catholic University of Louvain']
+Q742322,"['Academy of Fine Arts, Munich']"
+Q240652,['Franz Liszt Academy of Music']
+Q215739,['Conservatoire national supérieur de musique et de danse']
+Q742045,['Eötvös Loránd University']
+Q933988,['Eötvös Loránd University']
+Q709178,['Franz Liszt Academy of Music']
+Q367539,"['Franz Liszt Academy of Music', 'Accademia nazionale di Santa Cecilia']"
+Q201579,"['International Writing Program', 'Eötvös Loránd University']"
+Q834127,"['Eötvös Loránd University', 'Trinity College']"
+Q1072997,['TU Wien']
+Q291667,['Franz Liszt Academy of Music']
+Q305054,['ETH Zurich']
+Q123330,['Eötvös Loránd University']
+Q669910,"['Charles University', 'Eötvös Loránd University', 'Ludovica Military Academy']"
+Q338824,['Budapest University of Technology and Economics']
+Q439709,"['Eötvös Loránd University', 'Moscow State University']"
+Q156487,['Corvinus University of Budapest']
 Q469574,['Eötvös Loránd University']
+Q697179,['University of Halle-Wittenberg']
+Q535323,['Franz Liszt Academy of Music']
+Q918438,['Fordham University']
+Q218911,"['University of Theatre and Film Arts', 'Hungarian University of Fine Arts']"
+Q19063,['Eötvös Loránd University']
 Q832221,['Eötvös Loránd University']
+Q257803,['Babeș-Bolyai University']
+Q897421,"['Bolyai University', 'Babeș-Bolyai University']"
+Q652975,"['Academy of Fine Arts, Munich']"
+Q11893,['University of Vienna']
+Q725303,"['University of Vienna', 'Humboldt University of Berlin']"
+Q1046993,['University of Theatre and Film Arts']
+Q721776,['Eötvös Loránd University']
+Q561656,['Eötvös Loránd University']
+Q525792,"['Piarist grammar school Dugonics András', 'University of Szeged', 'Franz Joseph University']"
+Q1011241,['University of Theatre and Film Arts']
+Q19469,['Eötvös Loránd University']
+Q527997,"['Theresianum', 'University of Vienna']"
+Q18712,"['Piarist High School, Timișoara']"
+Q638941,['University of Theatre and Film Arts']
+Q73769,"['Gardonyi Geza Cistercian High School, Eger, Hungary']"
+Q249545,['University of Music and Performing Arts Vienna']
+Q830994,['Babeș-Bolyai University']
+Q701640,"['Piarist High School, Timișoara']"
+Q599840,['Hungarian University of Fine Arts']
+Q957256,['Eötvös Loránd University']
 Q764913,['Eötvös Loránd University']
+Q730344,['Hungarian University of Fine Arts']
 Q441053,['Franz Liszt Academy of Music']
+Q383528,"['University of California, Los Angeles']"
+Q961302,['Franz Liszt Academy of Music']
+Q874588,"['Pápai Református Kollegium', 'Eötvös Loránd University']"
+Q706277,['Eötvös Loránd University']
+Q362746,['Eötvös Loránd University']
 Q469347,['University of Theatre and Film Arts']
+Q632046,"['Academy of Fine Arts, Munich']"
+Q774280,['Eötvös Loránd University']
 Q909553,"['', 'Eötvös Loránd University']"
+Q854411,['Budapest University of Technology and Economics']
+Q18798,['Ludovica Military Academy']
+Q1028400,['Eötvös Loránd University']
+Q461944,"['Moscow State Institute of International Relations', 'Corvinus University of Budapest']"
+Q337876,"['TU Wien', 'Academy of Fine Arts Vienna', 'Budapest University of Technology and Economics']"
+Q963663,['Eötvös Loránd University']
+Q19059,['Budapest University of Technology and Economics']
 Q507813,['University of Theatre and Film Arts']
+Q340174,['Eötvös Loránd University']
+Q558419,['Eötvös Loránd University']
 Q712013,['Franz Liszt Academy of Music']
+Q721759,['']
+Q12865,['']
+Q721791,['University of Theatre and Film Arts']
+Q18165,['Hungarian University of Fine Arts']
+Q80258,"['Eötvös Loránd University', 'University of Bonn']"
+Q453518,['Eötvös Loránd University']
+Q355812,"['Harvard University', 'Corvinus University of Budapest']"
 Q329295,['University College London']
 Q144313,"['Veres Péter Gimnázium', 'Budapest Metropolitan University']"
+Q301125,['Frederick William University']
+Q644548,['University of Zurich']
+Q665460,['Franz Liszt Academy of Music']
 Q15030,['Eötvös Loránd University']
 Q57595,['Corvinus University of Budapest']
+Q701504,['University of Vienna']
 Q465476,"['Türr István Gimnázium és Kollégium', 'Eötvös Loránd University']"
+Q1347757,['Franz Liszt Academy of Music']
+Q853217,['University of Theatre and Film Arts']
+Q287822,['Eötvös Loránd University']
+Q551909,['University of Göttingen']
+Q214123,['Franz Liszt Academy of Music']
+Q205120,['Columbia University']
+Q833384,['Königliche Kunstgewerbeschule München']
+Q517710,['Eötvös Loránd University']
+Q640420,"['Piarist Gymnasium of Budapest', 'Corvinus University of Budapest']"
+Q583036,"['', 'Eötvös Loránd University']"
+Q899922,['Semmelweis University']
+Q505550,['University of Theatre and Film Arts']
+Q687205,['Franz Liszt Academy of Music']
+Q469964,"['', 'University of Theatre and Film Arts']"
+Q12628,['Eötvös Loránd University']
+Q728712,['Academy of Fine Arts Vienna']
+Q221153,['University of Theatre and Film Arts']
+Q740416,['Pontificio Ateneo Sant Anselmo']
+Q384387,['TU Wien']
+Q567359,"['Franz Liszt Academy of Music', 'Eötvös Loránd University']"
+Q2634647,"['Indiana University', 'Harvard University']"
+Q281741,['Corvinus University of Budapest']
+Q725328,['University of Theatre and Film Arts']
+Q594113,['University of Music and Theatre Leipzig']
 Q1301554,['University of Theatre and Film Arts']
+Q920009,['Academy of Fine Arts Vienna']
+Q389262,['Franz Liszt Academy of Music']
 Q561392,"['University of Manchester', 'Corvinus University of Budapest']"
+Q304346,['University of Halle-Wittenberg']
+Q546328,"['Piarist grammar school Dugonics András', 'Pázmány Péter Catholic University Faculty of Theology']"
+Q218889,['Eötvös Loránd University']
+Q282823,['Budapest University of Technology and Economics']
+Q540005,['TU Wien']
+Q270498,"['Eötvös Loránd University', ""King's College London""]"
+Q1093533,['University of Music and Performing Arts Vienna']
+Q180734,"['Gyula Andrássy High School', 'Franz Joseph University']"
+Q963168,['Franz Liszt Academy of Music']
+Q16240486,['Eszterházy Károly University']
+Q718082,['Paris Diderot University']
+Q903825,['Eötvös Loránd University']
+Q956324,"['Franz Liszt Academy of Music', 'Eötvös Loránd University']"
+Q853389,['Franz Liszt Academy of Music']
+Q773746,['University of Theatre and Film Arts']
+Q541082,['University of Halle-Wittenberg']
+Q505273,['University of Theatre and Film Arts']
+Q219075,['University of Theatre and Film Arts']
+Q561716,"['Piarist Gymnasium of Budapest', 'Gymnasium of Cistercian Order of the Louis the Great', 'Faculty of Law of the University of Zagreb']"
+Q345634,"['Corvinus University of Budapest', 'MSZMP Political College']"
+Q718762,['Eötvös Loránd University']
+Q139980,['Eötvös Loránd University']
+Q615380,['Hungarian University of Fine Arts']
+Q780538,['Eötvös Loránd University']
+Q460044,['Eötvös Loránd University']
+Q373131,['University of Paris (1896-1968)']
+Q258704,['Hungarian University of Fine Arts']
+Q94699,['Benedictine High School of Pannonhalma']
+Q774310,"['Utrecht University', 'University of Harderwijk', 'University of Franeker', 'Leiden University']"
+Q995552,['Academy of Fine Arts Vienna']
+Q546103,['University of Theatre and Film Arts']
+Q460169,"['Academy of Fine Arts Vienna', 'Budapest University of Technology and Economics']"
+Q900177,['Académie Julian']
+Q704391,['Budapest University of Technology and Economics']
+Q907074,['Eötvös Loránd University']
+Q3124507,['University of Fribourg']
+Q695517,['Ludovica Military Academy']
+Q278153,"['Gymnasium of Cistercian Order of the Louis the Great', 'University of Pécs']"
+Q448153,"['Franz Liszt Academy of Music', 'State University of Music and Performing Arts Stuttgart']"
+Q58190,['University of Szeged']
+Q281797,['University of Theatre and Film Arts']
+Q848276,['University of Theatre and Film Arts']
+Q92845,['Eötvös Loránd University']
+Q375191,['Budapest University of Technology and Economics']
+Q923540,"['', 'Budapest University of Technology and Economics', 'Széchenyi István University', 'Szent István University Ybl Miklós Faculty of Architecture and Civil Engineering']"
+Q252245,['University of Theatre and Film Arts']
+Q252335,"['Eötvös Loránd University', 'Károli Gáspár University of the Reformed Church in Hungary']"
+Q225981,['Hungarian University of Fine Arts']
+Q780748,['Franz Liszt Academy of Music']
+Q250150,"['Budapest University of Technology and Economics', 'Technical University of Berlin', 'Eötvös Loránd University']"
+Q367265,['University of Theatre and Film Arts']
+Q724571,['Eötvös Loránd University']
+Q515964,['University of Theatre and Film Arts']
+Q20747349,['Berklee College of Music']
+Q555615,['Ludovica Military Academy']
+Q516147,"['Franz Liszt Academy of Music', 'Eötvös Loránd University']"
+Q718722,['Académie Julian']
+Q712613,"[""Higher Scientific Institute for Diocesan Priests at St. Augustine's""]"
+Q427649,['Eötvös Loránd University']
+Q1115371,"['Brandeis University', 'Eötvös Loránd University']"
+Q556053,"['Budapest University of Technology and Economics', 'University of Physical Education']"
+Q165756,"['Academy of Fine Arts, Munich']"
+Q829892,['Académie Julian']
+Q515891,['Heidelberg University']
+Q664519,['Pontifical Gregorian University']
+Q942147,['Franz Liszt Academy of Music']
+Q571604,['Franz Liszt Academy of Music']
+Q690112,['TU Wien']
+Q238881,['Hungarian University of Fine Arts']
+Q539823,['University of Theatre and Film Arts']
+Q830978,"['Eötvös Loránd University', 'University of Göttingen']"
+Q898752,['Gyula Juhász Teacher Training College']
+Q261138,['University of Music and Performing Arts Vienna']
+Q438316,['Franz Liszt Academy of Music']
+Q717298,['Pázmány Péter Catholic University']
+Q530425,"['Ehemaliges Melanchthon-Gymnasium in Altdorf bei Nürnberg', 'University of Jena']"
+Q447350,['Franz Liszt Academy of Music']
+Q216123,['Bauhaus']
+Q177504,['Budapest University of Technology and Economics']
+Q967828,['Franz Liszt Academy of Music']
+Q716107,"['San José State University', 'University of California, Berkeley']"
+Q601771,['Moholy-Nagy University of Art and Design']
+Q558415,['Hungarian University of Fine Arts']
+Q835071,['Jagiellonian University']
+Q782866,['University of Theatre and Film Arts']
+Q551353,"['Franz Liszt Academy of Music', 'Hochschule für Musik Detmold']"
+Q378286,['Ludovica Military Academy']
+Q901368,['Moscow State University']
+Q338630,['Franz Liszt Academy of Music']
+Q458925,"['Eötvös Loránd University', 'University of Vienna', 'Heidelberg University']"
+Q853617,['Budapest University of Technology and Economics']
+Q218882,"['', 'Debrecen Reformed Theological University', 'University of Tübingen', 'University of Bonn', 'University of Physical Education']"
+Q854769,['Eötvös Loránd University']
+Q456468,['Eötvös Loránd University']
+Q853095,['Budapest University of Technology and Economics']
+Q55574,"['Eötvös Loránd University', 'Pázmány Péter Catholic University']"
+Q760856,['University of Theatre and Film Arts']
+Q686064,['Eötvös Loránd University']
+Q1036379,['TU Wien']
+Q1102761,['Eötvös Loránd University']
+Q662084,"['Eötvös Loránd University', 'University of Basel']"
+Q948995,"[""Higher Scientific Institute for Diocesan Priests at St. Augustine's""]"
+Q469578,['University of Pécs']
+Q219031,['Franz Liszt Academy of Music']
+Q558405,['Franz Liszt Academy of Music']
+Q4373254,"['Eötvös Loránd University', 'Gymnasium of Cistercian Order of the Louis the Great']"
+Q515628,['University of Theatre and Film Arts']
+Q640251,['University of Theatre and Film Arts']
+Q1327309,['Eötvös Loránd University']
+Q1048660,"['Technical University of Berlin', 'University of Vienna']"
+Q2027005,['Franz Liszt Academy of Music']
+Q3108724,['University of London']
+Q721607,"['International Writing Program', 'Eötvös Loránd University']"
+Q516013,['University of Theatre and Film Arts']
+Q220286,['Corvinus University of Budapest']
+Q670142,['University of Music and Theatre Leipzig']
+Q574306,['University of Szeged']
+Q770930,['Budapest University of Technology and Economics']
+Q1327395,['University of Theatre and Film Arts']
+Q897981,['University of Theatre and Film Arts']
+Q715147,"['', 'Semmelweis University']"
+Q254242,['Eötvös Loránd University']
+Q658981,"['University of Music and Theatre Leipzig', 'Franz Liszt Academy of Music']"
+Q1071272,['Franz Liszt Academy of Music']
+Q832369,['Faculty of Arts of Paris']
+Q948697,['University of Vienna']
+Q18175708,['University of Theatre and Film Arts']
+Q854729,['Franz Liszt Academy of Music']
+Q1324589,"['University of Szeged', 'Eötvös Loránd University']"
+Q838349,['University of Glasgow']
+Q550142,['Corvinus University of Budapest']
+Q900908,['University of Padua']
+Q541966,['Eötvös Loránd University']
+Q259941,['Eötvös Loránd University']
+Q731042,['Eötvös Loránd University']
+Q403012,['University of Theatre and Film Arts']
+Q1242618,['Franz Liszt Academy of Music']
+Q23925538,['University of Szeged']
+Q111827,"['École des Beaux-Arts', 'Académie Julian']"
+Q86970,['TU Wien']
+Q683008,['University of Theatre and Film Arts']
+Q249602,"['Arizona State University', 'Semmelweis University', 'Corvinus University of Budapest']"
+Q491734,['University of Michigan']
+Q555669,['Eötvös Loránd University']
+Q832910,"['Piarist grammar school Dugonics András', 'University of Szeged']"
+Q213059,['Eötvös Loránd University']
+Q2036489,['Eötvös Loránd University']
+Q921564,['Franz Liszt Academy of Music']
+Q678646,['Theresian Military Academy']
+Q571230,"['University of Theatre and Film Arts', 'Eötvös Loránd University']"
+Q833803,['Corvinus University of Budapest']
+Q832195,['Franz Liszt Academy of Music']
+Q227338,"['Gyula Juhász Teacher Training College', 'University of Pécs', 'Budapest University of Technology and Economics']"
+Q1034928,['Eötvös Loránd University']
+Q969122,['University of Theatre and Film Arts']
+Q2346785,"['McGill University', 'Princeton University']"
+Q697850,"['Leipzig University', 'Humboldt University of Berlin']"
+Q266208,['Semmelweis University']
+Q390356,['Eötvös Loránd University']
+Q698819,"['Toldy Ferenc Gimnázium (Budapest)', 'Budapest University of Technology and Economics', 'Bauakademie']"
+Q897549,['Eötvös Loránd University']
+Q219008,['Eötvös Loránd University']
+Q782927,['University of Theatre and Film Arts']
+Q281645,['Eötvös Loránd University']
+Q791512,['TU Wien']
+Q714577,['Academy of Fine Arts Vienna']
+Q725442,['University of Szeged']
+Q654567,"['Toldy Ferenc Gimnázium (Budapest)', 'University of Theatre and Film Arts']"
+Q1007178,['University of London']
+Q447813,['Académie Julian']
+Q218951,['Hungarian University of Fine Arts']
+Q434073,['Leipzig University']
+Q216148,['Eötvös Loránd University']
+Q852865,['Budapest University of Technology and Economics']
+Q1318973,['University of Vienna']
+Q1178987,['University of Theatre and Film Arts']
+Q43855,['Franz Liszt Academy of Music']
+Q972607,['University of Theatre and Film Arts']
+Q2345159,"['University of Glasgow', 'Eötvös Loránd University']"
+Q25907625,['Bishop Gorman High School']
+Q689493,['University of London']
+Q359500,['Franz Liszt Academy of Music']
+Q721647,['Eötvös Loránd University']
+Q284581,['Franz Liszt Academy of Music']
+Q919894,['Hungarian Dance Academy']
+Q437138,['Franz Liszt Academy of Music']
+Q126515,['Corvinus University of Budapest']
+Q723235,"['Moholy-Nagy University of Art and Design', 'École des Beaux-Arts']"
+Q736795,['University of Halle-Wittenberg']
+Q686993,['Theresian Military Academy']
+Q920515,['Reformed College of Debrecen']
+Q456501,['Hungarian University of Fine Arts']
+Q146960,['Budapest University of Technology and Economics']
+Q742412,['Moscow State University']
+Q635640,['University of Theatre and Film Arts']
+Q526211,"['Eötvös Loránd University', 'Humboldt University of Berlin', 'University of Strasbourg']"
+Q5444055,['University of Theatre and Film Arts']
+Q1056063,['University of Theatre and Film Arts']
+Q663904,"['Conservatoire national supérieur de musique et de danse', 'Royal Conservatory of Brussels', 'Franz Liszt Academy of Music']"
+Q897305,"['Béla Bartók School', 'Franz Liszt Academy of Music', 'Berlin Philharmonic']"
+Q1033870,['Eötvös Loránd University']
+Q227306,['Hungarian University of Fine Arts']
+Q645267,['Eötvös Loránd University']
+Q375024,['Franz Liszt Academy of Music']
+Q714954,['University of Theatre and Film Arts']
+Q896998,"['University of Theatre and Film Arts', 'Franz Joseph University']"
+Q540574,['University of Theatre and Film Arts']
+Q326612,"['University of Paris III: Sorbonne Nouvelle', 'Eötvös Loránd University']"
+Q715337,"['Pázmány Péter Catholic University', 'University of Paris (1896-1968)']"
+Q1462233,['']
+Q714177,['University of Theatre and Film Arts']
+Q1401791,['Corvinus University of Budapest']
+Q767571,['Eötvös Loránd University']
+Q523012,['Pázmány Péter Catholic University']
+Q39107,"['University of Music and Performing Arts Vienna', 'Franz Liszt Academy of Music']"
+Q897156,['Eötvös Loránd University']
+Q220714,['Eötvös Loránd University']
+Q1009785,"['International Writing Program', 'Eötvös Loránd University']"
+Q1006570,['University of Debrecen']
+Q837038,['Károli Gáspár University of the Reformed Church in Hungary']
+Q676904,"['University of Theatre and Film Arts', 'Budapest University of Technology and Economics']"
+Q725792,['Franz Liszt Academy of Music']
+Q574202,['Nuffield College']
+Q479992,['Eötvös Loránd University']
+Q519343,['Eötvös Loránd University']
+Q461815,"['Franz Liszt Academy of Music', 'Conservatoire national supérieur de musique et de danse']"
+Q389291,['University of Southern California']
+Q987238,['University of Theatre and Film Arts']
+Q833449,['Budapest University of Technology and Economics']
+Q3180675,['Franz Liszt Academy of Music']
+Q1127562,['Budapest University of Technology and Economics']
+Q1178759,['University of Theatre and Film Arts']
+Q964353,"['Piarist Grammar School in Kecskemét', 'University of Szeged']"
+Q284020,['Franz Liszt Academy of Music']
+Q224998,['University of Theatre and Film Arts']
+Q15614617,"['Hungarian University of Fine Arts', 'Eötvös Loránd University']"
+Q926601,['Eötvös Loránd University']
+Q548434,['Eötvös Loránd University']
+Q1033898,"['Budapest University of Technology and Economics', 'Franz Liszt Academy of Music']"
+Q246035,['Banícka akadémia']
+Q779981,['University of Theatre and Film Arts']
+Q262178,['Eötvös Loránd University']
+Q897065,"['Accademia nazionale di Santa Cecilia', 'Franz Liszt Academy of Music']"
+Q784386,['University of Theatre and Film Arts']
+Q1098790,['Hungarian University of Fine Arts']
+Q221340,['Corvinus University of Budapest']
+Q453527,['University of Theatre and Film Arts']
+Q460202,"['Budapest University of Technology and Economics', 'University of Pécs']"
+Q941352,['Benedictine High School of Pannonhalma']
+Q685293,['Corvinus University of Budapest']
+Q2905059,['Budapest University of Technology and Economics']
+Q933502,['Académie Julian']
+Q459901,['University of Debrecen']
+Q438328,['Franz Liszt Academy of Music']
+Q659323,['Eötvös Loránd University']
+Q219005,['Franz Liszt Academy of Music']
+Q1238261,['University of Theatre and Film Arts']
+Q353741,['University of Theatre and Film Arts']
+Q1124855,['Franz Liszt Academy of Music']
+Q1226258,['University of Szeged']
+Q662783,['Académie Colarossi']
+Q382040,['Leipzig University']
+Q549589,"['Eötvös Loránd University', 'Police College']"
+Q219023,"['Rutgers University', 'Eötvös Loránd University']"
+Q426383,"['University of Debrecen', 'University of Iowa']"
+Q773550,"['Benedictine High School of Pannonhalma', 'University of Theatre and Film Arts']"
+Q793043,"['', 'Mikhailovskaya Military Artillery Academy', 'Szent István University']"
+Q447834,['Eötvös Loránd University']
+Q224993,['Franz Liszt Academy of Music']
+Q28050026,['University of Szeged']
+Q634237,['Eötvös Loránd University']
+Q1214252,"['Académie Julian', 'Hungarian University of Fine Arts']"
+Q782305,['Eötvös Loránd University']
+Q284978,['Budapest Business School']
+Q897494,['Franz Liszt Academy of Music']
+Q1002882,['Eötvös Loránd University']
+Q1288915,"['', 'University of Theatre and Film Arts']"
+Q516047,['Franz Liszt Academy of Music']
+Q898138,['Franz Liszt Academy of Music']
+Q351323,"['Budapest University of Technology and Economics', 'Hungarian University of Fine Arts']"
+Q881367,"['Academy of Fine Arts, Munich', 'Academy of Fine Arts Vienna']"
+Q466064,['Budapest University of Technology and Economics']
+Q1241161,['University of Theatre and Film Arts']
+Q897162,['Franz Liszt Academy of Music']
+Q507415,['University of Theatre and Film Arts']
+Q369766,['Corvinus University of Budapest']
+Q1320457,"['Hungarian University of Fine Arts', 'Académie Julian']"
+Q1106870,['University of Theatre and Film Arts']
+Q1315266,"['Eötvös Loránd University', 'Institute of Red Professors']"
+Q214363,['Franz Liszt Academy of Music']
+Q516102,['Eötvös Loránd University']
+Q376826,['Eötvös Loránd University']
+Q241943,['University of Dunaújváros']
+Q1297296,['University of Physical Education']
+Q126632,['Eötvös Loránd University']
+Q597676,['Eötvös Loránd University']
+Q521149,['University of Theatre and Film Arts']
+Q714947,"['Piarist Grammar School in Kecskemét', '', 'Corvinus University of Budapest']"
+Q1317699,['Eötvös Loránd University']
+Q343429,['Eötvös Loránd University']
+Q20916740,['Franz Liszt Academy of Music']
+Q121908,['University of Theatre and Film Arts']
+Q269167,['Eötvös Loránd University']
+Q279920,"['Budapest University of Technology and Economics', 'Franz Liszt Academy of Music']"
+Q538140,['University of Theatre and Film Arts']
+Q218948,['Franz Liszt Academy of Music']
+Q963230,['Eötvös Loránd University']
+Q1413060,['University of Theatre and Film Arts']
+Q716207,"['Corvinus University of Budapest', 'Gardonyi Geza Cistercian High School, Eger, Hungary']"
+Q714888,"['Piarist High School, Nitra', '', 'Collegium Germanicum et Hungaricum', 'Pontifical Gregorian University']"
+Q654106,['Arizona State University']
+Q1034062,['Eötvös Loránd University']
+Q1165539,['Eötvös Loránd University']
+Q92841,['Eötvös Loránd University']
+Q714965,['Franz Liszt Academy of Music']
+Q854150,['TU Wien']
+Q4024171,['Harvard University']
+Q251945,['University of Vienna']
+Q302718,['Jagiellonian University']
+Q921277,['University of Theatre and Film Arts']
+Q24284285,['Eötvös Loránd University']
+Q1109835,['Corvinus University of Budapest']
+Q720713,['Franz Liszt Academy of Music']
+Q493809,"['Corvinus University of Budapest', 'University of Theatre and Film Arts']"
+Q218872,['Budapest University of Technology and Economics']
+Q598448,['Eötvös Loránd University']
+Q938969,"['University of Physical Education', 'Budapest Business School']"
+Q1288461,"['Eötvös Loránd University', 'Kereskedelmi és Vendéglátóipari Főiskola', 'Miklós Zrínyi National Defense University']"
+Q4526398,"['Franz Liszt Academy of Music', 'Béla Bartók School', 'Royal Conservatoire of Antwerp', 'Hochschule für Musik und Theater München']"
+Q681887,['University of Paris (1896-1968)']
+Q3888708,['Franz Liszt Academy of Music']
+Q323851,['Hungarian University of Fine Arts']
+Q612622,['University of Theatre and Film Arts']
+Q1981216,['Franz Liszt Academy of Music']
+Q630962,"['University of Theatre and Film Arts', 'Budapest University of Technology and Economics']"
+Q529988,"['Gardonyi Geza Cistercian High School, Eger, Hungary']"
+Q708704,['Budapest University of Technology and Economics']
+Q5376613,"[""St Catherine's College""]"
+Q1237613,['Eötvös Loránd University']
+Q579127,['Corvinus University of Budapest']
+Q288936,['Eötvös Loránd University']
+Q6529770,['Illawarra Sports High School']
+Q463061,['University of Theatre and Film Arts']
+Q1107698,['Eötvös Loránd University']
+Q1234329,['Eötvös Loránd University']
+Q532110,"['Heidelberg University', 'Ohio State University']"
+Q249767,"['International Writing Program', 'Eötvös Loránd University']"
+Q976803,['University of Pécs']
+Q584940,['University of Geneva']
+Q1003501,['Eötvös Loránd University']
+Q673336,['Eötvös Loránd University']
+Q12815433,['Óbuda University']
+Q1399815,['Eötvös Loránd University']
+Q750646,"['', 'University of Szeged']"
+Q221270,"['University of Memphis', 'Semmelweis University']"
+Q839873,['Eötvös Loránd University']
+Q443188,['University of Physical Education']
+Q264659,['University of Vienna']
+Q220273,['Gyula Andrássy High School']
+Q998792,"['University of Western Ontario', 'University of Toronto']"
+Q555766,['Moholy-Nagy University of Art and Design']
+Q2374202,['Franz Liszt Academy of Music']
+Q651907,"['University of Theatre and Film Arts', 'University of Theatre and Film Arts']"
+Q645895,['University of Theatre and Film Arts']
+Q433812,['University of Theatre and Film Arts']
+Q637276,"['Gymnasium of Cistercian Order of the Louis the Great', 'Hungarian University of Fine Arts', 'Budapest University of Technology and Economics', 'Bauhaus']"
+Q363256,['TU Wien']
+Q975526,['University of Music and Performing Arts Vienna']
+Q1099003,['Academy of Fine Arts Vienna']
+Q10561955,['Eötvös Loránd University']
+Q552666,"['University of California, Santa Barbara']"
+Q254641,['Academy of Fine Arts Vienna']
+Q768978,"['Könyves Kálmán High School', 'Franz Liszt Academy of Music', 'Eötvös Loránd University']"
+Q1253190,"['University of Theatre and Film Arts', 'Eötvös Loránd University', '']"
+Q1418864,"['University of Music and Theatre Leipzig', 'Franz Liszt Academy of Music']"
+Q831789,"['Reformed College of Debrecen', 'University of Marburg']"
+Q1238237,['University of Music and Performing Arts Vienna']
+Q738510,['Budapest University of Technology and Economics']
+Q1231856,['Academy of Fine Arts Vienna']
+Q716086,['University of Theatre and Film Arts']
+Q1299933,"['Budapest University of Technology and Economics', 'University of Theatre and Film Arts']"
+Q596929,['Moscow State Institute of International Relations']
+Q1412854,['Eötvös Loránd University']
+Q4450138,['Franz Liszt Academy of Music']
+Q382055,"['St. Athanasius Greek Orthodox Theological College', 'Salesian Pontifical University']"
+Q1179170,"['Fasori Gimnázium', 'Eötvös Loránd University', 'József Eötvös College']"
+Q26226,['Kereskedelmi és Vendéglátóipari Főiskola']
+Q1220884,['Corvinus University of Budapest']
+Q12815307,['Eötvös Loránd University']
+Q3057567,"['Columbia University', 'Budapest University of Technology and Economics']"
+Q738049,['Corvinus University of Budapest']
+Q165804,['Eötvös Loránd University']
+Q934762,['Lutheran Theological University']
+Q7336466,['Hungarian University of Fine Arts']
+Q987863,['Eötvös Loránd University']
+Q1241820,"['Károli Gáspár University of the Reformed Church in Hungary', 'University of Theatre and Film Arts']"
+Q382216,['ELTE Faculty of Humanities']
+Q684284,"['Béla Bartók School', 'Franz Liszt Academy of Music']"
+Q1825849,['Eötvös Loránd University']
+Q215422,['Académie Julian']
+Q875366,['University of Theatre and Film Arts']
+Q710166,['Franz Liszt Academy of Music']
+Q774905,['Budapest University of Technology and Economics']
+Q838629,['Ludovica Military Academy']
+Q1119190,['University of Theatre and Film Arts']
+Q4177959,['University of Vienna']
+Q14100,['Veres Palne High School']
+Q2040756,"['Eötvös Loránd University', 'University of Göttingen']"
+Q257246,"['University of Padua', 'Heidelberg University']"
+Q1004812,['University of Innsbruck']
+Q897037,['Franz Liszt Academy of Music']
+Q967118,['Eötvös Loránd University']
+Q545358,"['Pontifical Gregorian University', 'Pontifical Gregorian University']"
+Q778418,"['', 'Pontifical Gregorian University', 'Central seminary (Budapest)']"
+Q529158,['Hungarian University of Fine Arts']
+Q1426002,"['MSU Faculty of Physics', 'University of Debrecen']"
+Q1415302,['Prague Conservatory']
+Q536023,['Pázmány Péter Catholic University']
+Q932088,['Eötvös Loránd University']
+Q549611,['Eötvös Loránd University']
+Q769509,['University of Theatre and Film Arts']
+Q1032524,"['Eötvös Loránd University', 'Budapest University of Jewish Studies']"
+Q102594,['Eötvös Loránd University']
+Q958078,['Budapest University of Technology and Economics']
+Q844026,"['Gardonyi Geza Cistercian High School, Eger, Hungary']"
+Q721250,['University of Theatre and Film Arts']
+Q912645,['Franz Liszt Academy of Music']
+Q840215,['Godollo University of Agricultural Sciences']
+Q1558698,['Franz Liszt Academy of Music']
+Q1293123,['Eötvös Loránd University']
+Q543934,['University of Szeged']
+Q848723,"['Eötvös Loránd University', 'Eötvös Loránd University']"
+Q557239,"['Franz Liszt Academy of Music', 'Berzsenyi Dániel High School (Budapest)']"
+Q278294,['Eötvös Loránd University']
+Q900428,['Eötvös Loránd University']
+Q238589,['Eötvös Loránd University']
+Q717372,['Eötvös Loránd University']
+Q15768402,['Franz Liszt Academy of Music']
+Q463003,['Franz Liszt Academy of Music']
+Q2164822,['Franz Liszt Academy of Music']
+Q1284684,['Royal Academy of Dramatic Art']
+Q1326982,['Moholy-Nagy University of Art and Design']
+Q239368,['University of Physical Education']
+Q4497382,['University of Music and Performing Arts Vienna']
+Q1227735,['University of Theatre and Film Arts']
+Q281433,"['', 'Eötvös Loránd University', 'Franciscan Gymnasium, Szentendre']"
+Q547289,['Academy of Fine Arts Vienna']
+Q326466,"['Eötvös Loránd University', 'Eötvös Loránd University']"
+Q92779,['Eötvös Loránd University']
+Q1302008,['Eötvös Loránd University']
+Q240335,['University of Theatre and Film Arts']
+Q4352898,['McGill University']
+Q463277,['Franz Liszt Academy of Music']
+Q382130,['Eötvös Loránd University']
+Q444683,['Hungarian University of Fine Arts']
+Q838957,['Semmelweis University']
+Q1255384,"['University of Vienna', 'Pázmáneum']"
+Q1290021,['Eötvös Loránd University']
+Q735560,['Franz Liszt Academy of Music']
+Q612350,['Medical University of Pécs']
+Q793861,['Eötvös Loránd University']
+Q902423,['Eötvös Loránd University']
+Q7794132,"['Corvinus University of Budapest', 'The Fletcher School of Law and Diplomacy', 'Eötvös Loránd University']"
+Q1294312,['Eötvös Loránd University']
+Q716160,['Franz Liszt Academy of Music']
+Q4205956,['Mozarteum University Salzburg']
+Q373046,['Eötvös Loránd University']
+Q480975,['Franz Liszt Academy of Music']
+Q1251999,['Eötvös Loránd University']
+Q1226667,['Eötvös Loránd University']
+Q771789,"['Eötvös Loránd University', 'Franz Liszt Academy of Music']"
+Q218920,"['Franz Liszt Academy of Music', 'Frederick William University']"
+Q832874,['Corvinus University of Budapest']
+Q943806,['Eötvös Loránd University']
+Q289784,['University of Theatre and Film Arts']
+Q776240,['University of Theatre and Film Arts']
+Q327826,['Eötvös Loránd University']
+Q1159706,['University of Theatre and Film Arts']
+Q220909,['Eötvös Loránd University']
+Q1107574,['University of Theatre and Film Arts']
+Q1163695,['University of Theatre and Film Arts']
+Q946121,['Pázmány Péter Catholic University']
+Q1239938,['University of Pécs']
+Q1105049,['Eötvös Loránd University']
+Q249551,"['Pázmány Péter Catholic University', 'Semmelweis University']"
+Q252416,"['Franz Liszt Academy of Music', 'Nemzeti Zenede']"
+Q728103,"['University of Vienna', 'University of Bologna', 'University of Padua']"
+Q3193980,['Hungarian University of Fine Arts']
+Q1109741,['Eötvös Loránd University']
+Q221299,"['Corvinus University of Budapest', 'Gardonyi Geza Cistercian High School, Eger, Hungary']"
+Q1035218,['University of Theatre and Film Arts']
+Q329164,"['Eötvös Loránd University', 'University of Vienna']"
+Q833188,"['University of Theatre and Film Arts', 'University of Theatre and Film Arts']"
+Q1160569,['University of Bonn']
+Q1115739,"['University of Theatre and Film Arts', 'Hungarian University of Fine Arts']"
+Q375945,"['University of Vienna', 'Eötvös Loránd University']"
+Q19329,"['Könnyűipari Műszaki Főiskola', 'University of Physical Education']"
+Q717700,['Babeș-Bolyai University']
+Q1285996,['University of Theatre and Film Arts']
+Q1094129,"['University of Physical Education', 'Milton Friedman University']"
+Q1104593,['University of Theatre and Film Arts']
+Q280007,['University of Theatre and Film Arts']
+Q663659,['Hungarian University of Fine Arts']
+Q456745,"['University of Horticulture and Food Industry', 'Eötvös Loránd University']"
+Q628182,['Franz Joseph University']
+Q358140,"['Berlin University of the Arts', 'Budapest University of Technology and Economics']"
+Q218849,['University of Vienna']
+Q839289,['University of Theatre and Film Arts']
+Q220553,"['University of Miskolc', 'University of Miskolc']"
+Q573109,['University of Theatre and Film Arts']
+Q549568,['University of Szeged']
+Q1124438,['University of Theatre and Film Arts']
+Q1166123,"['Moholy-Nagy University of Art and Design', 'Hungarian University of Fine Arts']"
+Q674989,"['', 'Pázmány Péter Catholic University Faculty of Theology']"
+Q480378,['Hungarian University of Fine Arts']
+Q17481068,"['Városmajori Gimnázium', 'University of Theatre and Film Arts']"
+Q124189,"['University of Westminster', 'Corvinus University of Budapest']"
+Q532829,['Corvinus University of Budapest']
+Q794461,['Eötvös Loránd University']
+Q359248,['Budapest University of Technology and Economics']
+Q253020,['University of Szeged']
+Q1286036,['Budapest University of Technology and Economics']
+Q27037173,['University of Szeged']
+Q541395,['Benedictine High School of Pannonhalma']
+Q716065,['University of Szeged']
+Q3029907,['Eötvös Loránd University']
+Q734884,"['Piarist Gymnasium of Budapest', 'Eötvös Loránd University', 'University of Vienna']"
+Q854023,"['Lajos Kossuth school', '', 'Corvinus University of Budapest', 'MSZMP Political College', 'Miklós Zrínyi National Defense University']"
+Q290221,['Moholy-Nagy University of Art and Design']
+Q2935072,"['University of Paris (1896-1968)', 'University of Szeged']"
+Q281577,"['TU Wien', 'Academy of Fine Arts Vienna']"
+Q1034778,['Franz Liszt Academy of Music']
+Q26802740,"['', 'University of Veterinary Medicine']"
+Q438018,"['Béla Bartók School', 'University of Theatre and Film Arts']"
+Q2913404,['Florida International University']
+Q1293787,"['Harvard Law School', 'University of Szeged']"
+Q875323,['']
+Q3216437,['Franz Liszt Academy of Music']
+Q870317,['University of Theatre and Film Arts']
+Q1323045,['Académie Julian']
+Q324164,"['Semmelweis University', 'Eötvös Loránd University']"
+Q3648010,['Eötvös Loránd University']
+Q1294258,"['University of Debrecen', 'Eötvös Loránd University']"
+Q6834515,['Eötvös Loránd University']
+Q1122079,['Corvinus University of Budapest']
+Q1124989,['Corvinus University of Budapest']
+Q843149,"['Bessenyei György Tanárképző Főiskola', 'MSZMP Political College', '', 'University of Pécs']"
+Q698640,['Technical University of Berlin']
+Q428644,['University of Theatre and Film Arts']
+Q1120166,['Eötvös Loránd University']
+Q22977611,"['University of Theatre and Film Arts', 'American Film Institute']"
+Q4755335,"['Franz Liszt Academy of Music', 'Szilágyi Erzsébet Gimnázium']"
+Q569017,['University of Theatre and Film Arts']
+Q1031644,['University of Theatre and Film Arts']
+Q832849,['Budapest University of Technology and Economics']
+Q4524609,['Franz Liszt Academy of Music']
+Q3525089,['Lycée Louis-le-Grand']
+Q570686,['University of Theatre and Film Arts']
+Q784123,['Eötvös Loránd University']
+Q269095,"['Franz Liszt Academy of Music', 'Franz Liszt Academy of Music']"
+Q897069,"['Budapest University of Technology and Economics', 'University of Vienna']"
+Q250611,"['Corvinus University of Budapest', 'Corvinus University of Budapest']"
+Q735390,['']
+Q1331304,['Eötvös Loránd University']
+Q492399,"['Bauhaus', 'Budapest University of Technology and Economics']"
+Q832842,['Kereskedelmi és Vendéglátóipari Főiskola']
+Q1031523,"['ELTE Faculty of Humanities', 'University of Oxford']"
+Q372388,"['University of Sopron', 'University College London', 'Central European University']"
+Q1047948,['Budapest University of Technology and Economics']
+Q690759,"['Eötvös Loránd University', 'Syracuse University', 'Stanford University', 'University of Theatre and Film Arts']"
+Q713731,['Technische Hochschule Berlin']
+Q1256771,['Eötvös Loránd University']
+Q958057,['University of Zurich']
+Q1288458,"['Teleki Blanka high school and junior high school', 'Eötvös Loránd University']"
+Q1236863,['Franz Liszt Academy of Music']
+Q17302280,"['Ferenc Rákóczi II Transcarpathian Hungarian Institute', 'Eötvös Loránd University']"
+Q793270,['University of Theatre and Film Arts']
+Q1126765,['University of Theatre and Film Arts']
+Q1270525,['Franz Liszt Academy of Music']
+Q963156,['Franz Liszt Academy of Music']
+Q1467035,['Eötvös Loránd University']
+Q24053202,['Pontifical Ecclesiastical Academy']
+Q804003,"['Eötvös József Gimnázium (Budapest)', 'Eötvös Loránd University']"
+Q820863,['Franz Liszt Academy of Music']
+Q546453,['Moholy-Nagy University of Art and Design']
+Q1121770,['Eötvös Loránd University']
+Q27916392,"['Massachusetts Institute of Technology', 'Stanford University']"
+Q1056963,['University of Theatre and Film Arts']
+Q1249804,['Corvinus University of Budapest']
+Q1118141,['University of Theatre and Film Arts']
+Q1212381,['University of Theatre and Film Arts']
+Q1034997,['Eötvös Loránd University']
+Q792654,"['Pázmány Péter Catholic University', 'Debreceni Agrártudományi Egyetem', 'ELTE Bárczi Gusztáv   Special Education Faculty', 'Eötvös Loránd University']"
+Q606552,['University of Theatre and Film Arts']
+Q1245379,['University of Theatre and Film Arts']
+Q338334,['Budapest University of Technology and Economics']
+Q119902,['University of Music and Theatre Leipzig']
+Q1284982,['Franz Liszt Academy of Music']
+Q1413044,['University of Theatre and Film Arts']
+Q873543,['Hochschule für Musik Karlsruhe']
+Q713527,['Budapest University of Technology and Economics']
+Q791092,['Franz Liszt Academy of Music']
+Q227346,['Franz Liszt Academy of Music']
+Q930036,"['Budapest University of Technology and Economics', 'Academy of Fine Arts Vienna']"
+Q1660513,['Eötvös Loránd University']
+Q482018,['Eötvös Loránd University']
+Q1412995,['University of Theatre and Film Arts']
+Q523094,"['Gardonyi Geza Cistercian High School, Eger, Hungary']"
+Q4685724,['Moore College of Art and Design']
+Q286763,['Corvinus University of Budapest']
+Q5566469,"['Yale University', 'The Rockefeller University', 'Stockholm University']"
+Q729874,"['', 'Eötvös Loránd University']"
+Q7104136,['Hungarian University of Fine Arts']
+Q832286,"['University of Szeged', 'University of Physical Education']"
+Q3443294,"['University of Belgrade', 'Faculty of Humanities and Social Sciences, University of Zagreb']"
+Q667352,['University of Theatre and Film Arts']
+Q838227,['Eötvös Loránd University']
+Q1819910,['Theresian Military Academy']
+Q542969,['University of Theatre and Film Arts']
+Q790791,['Budapest University of Technology and Economics']
+Q1000990,"['Horváth Mihály Grammar School', 'University of Theatre and Film Arts']"
+Q848456,"['University of Szeged', 'Varga Katalin Secondary School']"
+Q580669,['University of Music and Performing Arts Vienna']
+Q2427634,['University of Physical Education']
+Q1179185,"['Teleki Blanka Gymnasium', 'Corvinus University of Budapest']"
+Q600847,['University of Debrecen']
+Q13560408,['Prague Conservatory']
+Q714933,['Budapest University of Technology and Economics']
+Q717874,['University of Physical Education']
+Q789182,['University of Vienna']
+Q1035665,['University of Theatre and Film Arts']
+Q217578,"['Corvinus University of Budapest', 'Eötvös Loránd University']"
+Q222704,['University of Theatre and Film Arts']
+Q269361,"['Gymnasium of Cistercian Order of the Louis the Great', '', '']"
+Q1314262,['University of Pannonia']
+Q732901,['Eötvös Loránd University']
+Q1212908,['Eötvös Loránd University']
+Q1402315,['University of Szeged']
+Q2299249,['University of Jena']
+Q1327826,"['', 'Eötvös Loránd University']"
+Q1033263,['University of Theatre and Film Arts']
+Q762964,['University of Novi Sad']
+Q1296019,['Eötvös Loránd University']
+Q667157,['University of Theatre and Film Arts']
+Q15445437,"['Eötvös Loránd University', 'Eötvös Loránd University', 'Eötvös Loránd University', 'Heidelberg University']"
+Q832947,['University of Theatre and Film Arts']
+Q722934,['Academy of Fine Arts Vienna']
+Q1243875,['Technical University of Munich']
+Q984891,['Hungarian Dance Academy']
+Q5515473,"['Eötvös Loránd University', 'Franz Liszt Academy of Music', 'Berzsenyi Dániel High School (Budapest)']"
+Q1178026,['Trnavská univerzita']
+Q3331988,"['Pázmány Péter Catholic University', 'Corvinus University of Budapest']"
+Q996467,"['Corvinus University of Budapest', 'Corvinus University of Budapest']"
+Q789729,['Eötvös Loránd University']
+Q832873,"['Bethlen College, Aiud', 'Leiden University']"
+Q1011744,"['Eötvös Loránd University', '']"
+Q572063,['Bauakademie']
+Q19578006,['Western Colorado University']
+Q2152191,"['Szilágyi Erzsébet High School, Eger, Hungary']"
+Q4191776,"['University of Paris (1896-1968)', 'University of Göttingen', 'University of Vienna', 'Humboldt University of Berlin']"
+Q1000395,['University of Strasbourg']
+Q1247172,['Budapest University of Technology and Economics']
+Q246030,"['Budapest University of Technology and Economics', 'Academy of Fine Arts Vienna']"
+Q28529338,"['University of Theatre and Film Arts', 'University of Westminster', 'ELTE Apáczai Csere János Gyakorló Gimnázium és Kollégium']"
+Q746856,['University of Theatre and Film Arts']
+Q991857,"['Hungarian Dance Academy', 'University of Theatre and Film Arts']"
+Q1212684,"['University of Theatre and Film Arts', 'University of Theatre and Film Arts']"
+Q996618,"['Franz Liszt Academy of Music', 'Conservatoire national supérieur de musique et de danse']"
+Q284976,"['Pázmány Péter Catholic University Faculty of Theology', 'Pontifical Oriental Institute']"
+Q6015951,"['Szilágyi Erzsébet Gimnázium', 'Eötvös Loránd University']"
+Q1291801,['University of Theatre and Film Arts']
+Q1292234,"['Franz Liszt Academy of Music', 'Franz Liszt Academy of Music']"
+Q35312638,"['University of Szeged', 'University of Szeged']"
+Q658352,['University of Theatre and Film Arts']
+Q285095,['University of Theatre and Film Arts']
+Q1118838,['Budapest University of Technology and Economics']
+Q731324,['University of Theatre and Film Arts']
+Q16523711,['Eötvös Loránd University']
+Q25466818,"['University of London', 'Corvinus University of Budapest']"
+Q601726,['Franz Liszt Academy of Music']
+Q840360,['Eötvös Loránd University']
+Q15710456,"['Corvinus University of Budapest', 'Varga Katalin Secondary School']"
+Q640419,['University of Vienna']
+Q690478,['Bard College']
+Q1103556,['École nationale supérieure des Beaux-Arts']
+Q1101916,['Eötvös Loránd University']
+Q12814927,['University of Theatre and Film Arts']
+Q4893116,['University of Michigan']
+Q442269,['Franz Liszt Academy of Music']
+Q7665260,"['Academy of Fine Arts Vienna', 'Academy of Fine Arts, Munich']"
+Q1242805,['University of Theatre and Film Arts']
+Q3488068,['Harvard University']
+Q1031129,['Eötvös Loránd University']
+Q1242886,['Moholy-Nagy University of Art and Design']
+Q834111,"['Eötvös Loránd University', 'University of Minnesota']"
+Q456029,"['Fazekas Mihály Gimnázium', 'Eötvös Loránd University']"
+Q12349773,['Babeș-Bolyai University']
+Q717474,['Hungarian Royal Public Secondary Industrial School']
+Q288893,"['Gardonyi Geza Cistercian High School, Eger, Hungary']"
+Q1120300,['University of Theatre and Film Arts']
+Q833085,['University of Theatre and Film Arts']
+Q277639,['Eötvös Loránd University']
+Q4166000,"['University of Tübingen', 'University of Pennsylvania']"
+Q1028665,['Franz Liszt Academy of Music']
+Q1286272,['University of Theatre and Film Arts']
+Q19519421,['Franz Liszt Academy of Music']
+Q4407913,['Franz Liszt Academy of Music']
+Q1028281,['University of Theatre and Film Arts']
+Q1121105,['University of Szeged']
+Q908375,['University of Theatre and Film Arts']
+Q848559,['Franz Liszt Academy of Music']
+Q645899,['Corvinus University of Budapest']
+Q5543683,['University of Oxford']
+Q7681952,['Eötvös Loránd University']
+Q852956,['University of Theatre and Film Arts']
+Q247825,['Eötvös Loránd University']
+Q1004786,['Franz Liszt Academy of Music']
+Q1242830,['University of Theatre and Film Arts']
+Q135087,"['Eötvös Loránd University', 'University of Szeged']"
+Q1035771,"['University of Arts from Târgu-Mureș', 'Bolyai University']"
+Q1770817,['Eötvös Loránd University']
+Q996213,['Eötvös Loránd University']
+Q1118183,['Hungarian University of Fine Arts']
+Q908394,['Budapest University of Technology and Economics']
+Q5004788,"['University of California, Berkeley', 'Massachusetts Institute of Technology']"
+Q30090250,['University of Szeged']
+Q646178,['Franz Liszt Academy of Music']
+Q1323843,['Eötvös Loránd University']
+Q426825,['University of Michigan']
+Q24567452,['Hungarian University of Fine Arts']
+Q960516,['University of Theatre and Film Arts']
+Q374106,"['', 'Eötvös Loránd University', 'Harvard University', 'University of Connecticut']"
+Q2063234,['Budapest University of Technology and Economics']
+Q372354,['University of Novi Sad']
+Q1233259,['Franz Liszt Academy of Music']
+Q1839873,['Berlin University of the Arts']
+Q1240916,['University of Debrecen']
+Q2650305,['Franz Liszt Academy of Music']
+Q1176446,['Eötvös Loránd University']
+Q1220669,"['Eötvös Loránd University', 'University of Pécs']"
+Q1010061,['University of Theatre and Film Arts']
+Q653834,['Košice King Law Academy']
+Q570832,['University of Theatre and Film Arts']
+Q1933730,['Pontifical Gregorian University']
+Q771204,['Charles University']
+Q1414815,['Semmelweis University']
+Q252523,['Eötvös Loránd University']
+Q963057,['Hungarian University of Fine Arts']
+Q1126354,['Eötvös Loránd University']
+Q143921,['University of Theatre and Film Arts']
+Q1789443,['Franz Liszt Academy of Music']
+Q216316,['Franz Liszt Academy of Music']
+Q1807834,['Gymnasium of Cistercian Order of the Louis the Great']
+Q1105579,"['Budapest University of Technology and Economics', 'Budapest University of Technology and Economics']"
+Q570777,"['Budapest University of Technology and Economics', 'Pázmány Péter Catholic University']"
+Q1219264,['University of Theatre and Film Arts']
+Q840231,['Eötvös Loránd University']
+Q15572400,['Yonsei University']
+Q1294448,['ELTE Radnóti Miklós School']

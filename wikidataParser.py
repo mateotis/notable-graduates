@@ -1,5 +1,6 @@
 from qwikidata.linked_data_interface import get_entity_dict_from_api
 from qwikidata.entity import WikidataItem, WikidataProperty
+from time import perf_counter
 import csv
 import pandas
 
@@ -8,12 +9,12 @@ eduDict = {}
 foundCount = 0
 missingCount = 0
 
-f = open("codeList100.txt", "r")
+f = open("codeList3500.txt", "r")
 lines = f.read().splitlines()
 for code in lines:
 	codeList.append(code)
 
-#exit()
+timeStart = perf_counter()
 
 for name in codeList:
 
@@ -23,17 +24,17 @@ for name in codeList:
 	claim_groups = person.get_truthy_claim_groups() # Have no idea what this does
 	try:
 		eduGroups = claim_groups["P69"] # Grabs person's education
-		foundCount++
+		foundCount += 1
 	except:
-		print("--------------------------")
+		#print("--------------------------")
 		print("Education not there for", person.get_label() + "!")
-		missingCount++
+		missingCount += 1
 		continue
 	eduEntries = len(eduGroups) # How many different entries there are
 
-	print("--------------------------")
+	#print("--------------------------")
 	print("Writing education for", person.get_label())
-	print("--------------------------")
+	#print("--------------------------")
 	eduList = []
 	for i in range(eduEntries):
 		eduEntry = eduGroups[i] # Get list entry
@@ -56,6 +57,6 @@ with open('eduCSV.csv', mode='w') as eduCSV:
 	for qcode in eduDict:
 		writer.writerow({'wikidata_code_B': qcode, 'education': eduDict[qcode]})
 
-
-df = pandas.read_csv('eduCSV.csv')
-print(df)
+timeEnd = perf_counter()
+print("Execution time:", timeEnd - timeStart)
+#df = pandas.read_csv('eduCSV.csv')
