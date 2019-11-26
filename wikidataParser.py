@@ -9,7 +9,7 @@ eduDict = {}
 foundCount = 0
 missingCount = 0
 
-f = open("codeList3500.txt", "r")
+f = open("top100_15_2.txt", "r")
 lines = f.read().splitlines()
 for code in lines:
 	codeList.append(code)
@@ -37,11 +37,14 @@ for name in codeList:
 	#print("--------------------------")
 	eduList = []
 	for i in range(eduEntries):
-		eduEntry = eduGroups[i] # Get list entry
-		qid = eduEntry.mainsnak.datavalue.value["id"] # Get its ID
-		eduValue = WikidataItem(get_entity_dict_from_api(qid)) # Get its actual name
-		#print(eduValue.get_label()) # Print that name
-		eduList.append(eduValue.get_label())
+		try:
+			eduEntry = eduGroups[i] # Get list entry
+			qid = eduEntry.mainsnak.datavalue.value["id"] # Get its ID
+			eduValue = WikidataItem(get_entity_dict_from_api(qid)) # Get its actual name
+			#print(eduValue.get_label()) # Print that name
+			eduList.append(eduValue.get_label())
+		except:
+			continue
 
 	eduDict[name] = eduList
 	eduList = []
@@ -49,7 +52,7 @@ for name in codeList:
 print("Education found for:", foundCount)
 print("Education missing for: ", missingCount)
 
-with open('eduCSV.csv', mode='w') as eduCSV:
+with open('eduCSV.csv', mode='a') as eduCSV:
 	fieldnames = ['wikidata_code_B', 'education']
 	writer = csv.DictWriter(eduCSV, fieldnames=fieldnames)
 

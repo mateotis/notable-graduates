@@ -1,0 +1,2190 @@
+keep if birth_b>=1940 & birth_b<=1960
+
+keep if area1_of_ratt=="US"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater1.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="United_Kingdom"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater2.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="France"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater3.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Germany_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater4.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Spain"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater5.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Italy"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater6.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Soviet_Union"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater7.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Japan"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater8.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Canada"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater9.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Russia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater10.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Netherlands"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater11.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Sweden"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater12.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Poland"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater13.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Norway"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater14.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="India"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater15.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Brazil"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater16.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Italy_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater17.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Belgium"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater18.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Australia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater19.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Denmark"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater20.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Finland"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater21.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Argentina"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater22.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Hungary"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater23.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Germany"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater24.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="China"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater25.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Switzerland"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater26.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Mexico"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater27.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="South_Korea"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater28.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Turkey"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater29.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Romania"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater30.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Japan_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater31.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Austria"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater32.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Austria_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater33.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Czech_Republic_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater34.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"China_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater35.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Greece"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater36.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Portugal"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater37.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Ukraine_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater38.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Russia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater39.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Israel"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater40.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Ireland"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater41.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Serbia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater42.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="South_Africa"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater43.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"India_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater44.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Bulgaria"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater45.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Iran_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater46.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="New_Zealand"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater47.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Egypt"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater48.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Lithuania"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater49.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Chile"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater50.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Colombia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater51.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Indonesia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater52.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Croatia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater53.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Iran"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater54.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Uruguay"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater55.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Philippines"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater56.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Slovakia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater57.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Roman_Empire"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater58.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Estonia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater59.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Turkey_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater60.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Venezuela"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater61.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Thailand"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater62.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Cuba"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater63.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Nigeria"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater64.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Latvia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater65.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Belarus_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater66.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Pakistan"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater67.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Peru"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater68.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Ireland_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater69.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Armenia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater70.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Czechoslovakia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater71.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Slovenia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater72.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Norway_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater73.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Ukraine"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater74.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Albania_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater75.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Malaysia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater76.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Georgia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater77.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Taiwan"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater78.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Saudi_Arabia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater79.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Iceland"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater80.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Kazakhstan_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater81.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Morocco"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater82.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Czech_Republic"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater83.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Luxembourg"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater84.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Algeria"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater85.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Tunisia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater86.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Austria-Hungary"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater87.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Sri_Lanka"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater88.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Israel_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater89.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Spain_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater90.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Azerbaijan_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater91.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Bosnia_and_Herzegovina_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater92.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Paraguay"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater93.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Bangladesh"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater94.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Yugoslavia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater95.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Iraq"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater96.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Ecuador"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater97.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Vietnam"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater98.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Lebanon"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater99.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Finland_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater100.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Kenya"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater101.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Macedonia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater102.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Belarus"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater103.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Ghana"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater104.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Hong_Kong_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater105.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Greece_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater106.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Costa_Rica"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater107.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Croatia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater108.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Jamaica"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater109.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Cameroon"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater110.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Dominica"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater111.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Nepal"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater112.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Albania"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater113.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Lithuania_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater114.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Congo"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater115.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"South_Korea_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater116.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Belgium_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater117.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Bolivia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater118.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Afghanistan"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater119.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Moldova_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater120.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Estonia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater121.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Malaysia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater122.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Montenegro_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater123.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Syria"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater124.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Senegal"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater125.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Latvia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater126.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"New_Zealand_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater127.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Haiti"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater128.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Egypt_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater129.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Ivory_Coast"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater130.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Dominica_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater131.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Ethiopia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater132.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Slovenia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater133.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Bangladesh_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater134.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Netherlands_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater135.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Nigeria_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater136.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="El_Salvador"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater137.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Armenia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater138.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Overseas_Territories_of_US"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater139.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Guatemala"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater140.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Indonesia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater141.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Slovakia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater142.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Philippines_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater143.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Honduras"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater144.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="North_Korea"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater145.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Vietnam_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater146.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Panama"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater147.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Uzbekistan_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater148.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Myanmar"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater149.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Holy_Roman_Empire"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater150.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Jordan"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater151.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Azerbaijan"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater152.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Kazakhstan"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater153.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Palestine_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater154.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="United_Arab_Emirates"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater155.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Pakistan_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater156.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Syria_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater157.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Tunisia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater158.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Canada_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater159.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Morocco_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater160.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Algeria_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater161.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Singapore"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater162.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Mongolia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater163.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Korean_Peninsula"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater164.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Georgia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater165.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Qatar"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater166.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Yugoslavia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater167.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Cyprus"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater168.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Serbia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater169.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"US_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater170.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Macedonia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater171.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Bulgaria_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater172.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Uganda"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater173.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Mali"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater174.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Guinea"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater175.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"France_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater176.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Nicaragua"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater177.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Taiwan_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater178.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"South_Africa_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater179.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Trinidad_and_Tobago"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater180.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Zimbabwe_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater181.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Angola"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater182.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Kuwait_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater183.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Iceland_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater184.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Tanzania"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater185.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Fiji"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater186.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Jamaica_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater187.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Myanmar_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater188.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Australia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater189.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Congo_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater190.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Bosnia_and_Herzegovina"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater191.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Malta"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater192.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Zimbabwe"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater193.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Romania_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater194.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Yemen_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater195.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Sri_Lanka_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater196.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Zambia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater197.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="San_Marino"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater198.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Bahrain"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater199.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Sudan"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater200.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Namibia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater201.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Cambodia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater202.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Kosovo"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater203.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Libya"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater204.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Andorra"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater205.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Sweden_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater206.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Burkina_Faso"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater207.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Kyrgyzstan_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater208.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Malta_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater209.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Liberia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater210.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Liechtenstein"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater211.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Tanzania_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater212.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Iraq_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater213.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Moldova"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater214.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Kenya_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater215.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Ghana_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater216.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Angola_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater217.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Rwanda"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater218.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Cyprus_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater219.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Somalia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater220.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="The_Bahamas"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater221.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Tajikistan_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater222.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Lebanon_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater223.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Senegal_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater224.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Benin"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater225.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Mongolia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater226.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Singapore_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater227.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Togo"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater228.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Gambia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater229.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Sierra_Leone"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater230.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Cape_Verde"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater231.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Uganda_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater232.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Cameroon_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater233.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Turkmenistan_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater234.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Luxembourg_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater235.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Mexico_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater236.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Gabon"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater237.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Uzbekistan"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater238.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Barbados"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater239.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Madagascar"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater240.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Polish–Lithuanian_Commonwealth"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater241.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Mauritius"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater242.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Suriname_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater243.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Yemen"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater244.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Cambodia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater245.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Poland_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater246.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Mali_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater247.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Suriname"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater248.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Equatorial_Guinea"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater249.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"North_Korea_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater250.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Botswana"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater251.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Kurdistan"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater252.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Niger"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater253.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Oman"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater254.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Mozambique"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater255.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Hong_Kong"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater256.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"East_Timor_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater257.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"United_Arab_Emirates_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater258.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Central_African_Republic"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater259.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Grenada"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater260.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Mozambique_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater261.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Burundi"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater262.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Rwanda_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater263.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Palestine"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater264.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Bhutan"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater265.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Chad"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater266.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Bahrain_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater267.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Tonga"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater268.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Malawi"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater269.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Maldives"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater270.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Trinidad_and_Tobago_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater271.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Guinea_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater272.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Samoa"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater273.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Kyrgyzstan"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater274.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Fiji_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater275.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Ivory_Coast_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater276.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Sudan_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater277.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Hungary_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater278.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Mauritania"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater279.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Namibia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater280.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"United_Kingdom_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater281.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Babylon"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater282.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Brazil_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater283.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Cuba_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater284.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Guyana"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater285.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Cape_Verde_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater286.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Overseas_Territories_of_United_Kingdom"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater287.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Assyria"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater288.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Tajikistan"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater289.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Afghanistan_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater290.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Barbados_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater291.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Qatar_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater292.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Eritrea_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater293.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Monaco"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater294.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Libya_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater295.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Madagascar_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater296.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Monaco_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater297.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Kuwait"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater298.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Laos_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater299.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Benin_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater300.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Belize"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater301.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Laos"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater302.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Portugal_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater303.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Mauritius_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater304.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Somalia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater305.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Belize_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater306.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Eritrea"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater307.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Northern_Cyprus"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater308.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Peru_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater309.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Czechoslovakia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater310.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Grenada_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater311.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Lesotho"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater312.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Brunei_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater313.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Malawi_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater314.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Vanuatu"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater315.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Gambia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater316.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Thailand_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater317.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Zambia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater318.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Burkina_Faso_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater319.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Turkmenistan"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater320.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Niger_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater321.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Solomon_Islands"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater322.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Tibet"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater323.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Tuvalu"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater324.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Papua_New_Guinea"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater325.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Comoros"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater326.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="São_Tomé_and_Príncipe"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater327.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Swaziland"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater328.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Colombia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater329.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Saint_Lucia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater330.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Seychelles"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater331.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Sierra_Leone_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater332.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Togo_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater333.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Burundi_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater334.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Nepal_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater335.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Antigua_and_Barbuda"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater336.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Brunei"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater337.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Chile_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater338.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Guinea-Bissau"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater339.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Tibet_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater340.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Chad_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater341.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Antigua_and_Barbuda_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater342.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Botswana_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater343.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Gabon_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater344.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Nauru"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater345.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Switzerland_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater346.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Guyana_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater347.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Argentina_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater348.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Central_African_Republic_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater349.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Comoros_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater350.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Maldives_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater351.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Mauritania_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater352.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Seychelles_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater353.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Vanuatu_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater354.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Denmark-Norway"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater355.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Djibouti"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater356.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Overseas_Territories_of_New_Zealand"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater357.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Tonga_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater358.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Swaziland_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater359.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Saint_Kitts_and_Nevis"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater360.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Saudi_Arabia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater361.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Serbia_and_Montenegro_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater362.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Solomon_Islands_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater363.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Liechtenstein_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater364.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Lesotho_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater365.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Papua_New_Guinea_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater366.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Palau_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater367.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Saint_Lucia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater368.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Saint_Vincent_and_the_Grenadines"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater369.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Abkhazia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater370.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Austria-Hungary_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater371.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Djibouti_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater372.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Guatemala_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater373.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Guinea-Bissau_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater374.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Transnistria"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater375.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Ethiopia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater376.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Nauru_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater377.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Saint_Kitts_and_Nevis_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater378.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Arabian_Peninsula"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater379.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"El_Salvador_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater380.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Honduras_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater381.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="East_Timor"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater382.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Kiribati"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater383.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Ecuador_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater384.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Federated_States_of_Micronesia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater385.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Polish–Lithuanian_Commonwealth_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater386.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Saint_Vincent_and_the_Grenadines_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater387.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Montenegro"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater388.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="England"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater389.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Federated_States_of_Micronesia"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater390.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Overseas_Territories_of_Netherlands"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater391.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Palau"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater392.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Samoa_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater393.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Bolivia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater394.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Haiti_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater395.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Marshall_Islands"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater396.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Paraguay_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater397.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"South_Sudan_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater398.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Urartu"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater399.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Venezuela_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater400.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Western_Sahara"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater401.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Nicaragua_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater402.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Oman_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater403.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Pre-Columbian_era"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater404.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Zanzibar"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater405.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Marshall_Islands_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater406.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Panama_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater407.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Sultanates_Islam_(vague_classification)"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater408.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Tuvalu_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater409.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Uruguay_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater410.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="British_North_America"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater411.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Kingdom_of_Israel"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater412.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Denmark_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater413.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Gibraltar"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater414.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Kiribati_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater415.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Soviet_Union_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater416.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Wales"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater417.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Costa_Rica_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater418.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Andorra_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater419.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Liberia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater420.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Overseas_Territories_of_France"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater421.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Nagorno-Karabakh_Republic"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater422.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Abkhazia_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater423.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Free_Territory_of_Trieste"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater424.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Judea"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater425.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Macau"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater426.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Nagorno-Karabakh_Republic_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater427.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Scotland"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater428.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Serbia_and_Montenegro"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater429.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="South_Sudan"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater430.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Bhutan_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater431.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Holy_Roman_Empire_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater432.dta", replace
+restore
+preserve
+keep if strpos(area1_of_ratt,"Vatican_City_(Former_political_/_geo")
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater433.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Bali"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater434.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Trinidad_and_tobago"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater435.dta", replace
+restore
+preserve
+keep if area1_of_ratt=="Vatican_City"
+keep if _n<100
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater436.dta", replace
+restore
+preserve
+
+use "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater1.dta", clear
+
+forvalues k=2/436 {
+append using "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater`k'.dta
+}
+save "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater_top100_15countries.dta", replace
+export delimited using "/Users/ew1555/Dropbox/CORE COURSE/2019/final essay data extraction/MAT_alma_mater_top100_15countries.csv", replace
