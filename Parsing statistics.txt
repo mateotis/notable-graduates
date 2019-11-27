@@ -1,0 +1,40 @@
+CODELIST1.TXT
+Parsed 2000 people.
+Education found for: 1314
+Education missing for:  686
+Execution time: 4511.7313159000005
+
+
+CODELIST2.TXT
+Parsed 2000 people.
+Education found for: 1115
+Education missing for:  885
+Execution time: 4145.4083646
+
+
+CODELIST3.TXT
+Parsed 2000 people.
+Education found for: 1046
+Education missing for:  954
+Execution time: 4578.381172699999
+
+
+CODELIST4.TXT
+Parsed 2000 people.
+Education found for: 986
+Education missing for:  1014
+Execution time: 3223.341537399996
+
+
+CODELIST5.TXT
+Parsed 2000 people.
+Education found for: 933
+Education missing for:  1067
+Execution time: 3121.970127299999
+
+
+CODELIST6.TXT
+Parsed 2000 people.
+Education found for: 943
+Education missing for:  1057
+Execution time: 3127.249726199996

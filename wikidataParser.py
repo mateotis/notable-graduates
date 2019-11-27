@@ -19,7 +19,7 @@ readyToAppend = False
 #             codeList.append(row[0])
 #             codeCount += 1
 
-f = open("codeList1.txt","r")
+f = open("codeList6.txt","r")
 codes = f.read().splitlines()
 codeCount = 0
 for line in codes:
@@ -63,9 +63,9 @@ for name in codeList:
 	eduDict[name] = eduList
 	eduList = []
 
-	if(cnt % 10 == 0 or readyToAppend == True): # Write to file after 100 processed entries
+	if(cnt % 10 == 0 or readyToAppend == True): # Write to file after 10 processed entries
 		print("-------------------", '\n', "CHECKPOINT AT", cnt, '\n' + "-------------------")
-		with open('eduCSV.csv', mode='a') as eduCSV:
+		with open('eduCSV6.csv', mode='a', encoding = "UTF-8") as eduCSV:
 			fieldnames = ['wikidata_code_B', 'education']
 			writer = csv.DictWriter(eduCSV, fieldnames=fieldnames)
 			if(cnt < 11): # Write header only at first checkpoint
