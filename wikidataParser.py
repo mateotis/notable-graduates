@@ -19,7 +19,7 @@ readyToAppend = False
 #             codeList.append(row[0])
 #             codeCount += 1
 
-f = open("codeList6.txt","r")
+f = open("codeList11.txt","r")
 codes = f.read().splitlines()
 codeCount = 0
 for line in codes:
@@ -34,7 +34,12 @@ cnt = 0
 for name in codeList:
 	cnt += 1
 
-	personDict = get_entity_dict_from_api(name) # Insert QCode here
+	try:
+		personDict = get_entity_dict_from_api(name) # Insert QCode here
+	except:
+		missingCodes = open("missingCodes.txt","a")
+		missingCodes.write(name+'\n')
+		continue
 	person = WikidataItem(personDict)
 
 	claim_groups = person.get_truthy_claim_groups() # Have no idea what this does
@@ -65,7 +70,7 @@ for name in codeList:
 
 	if(cnt % 10 == 0 or readyToAppend == True): # Write to file after 10 processed entries
 		print("-------------------", '\n', "CHECKPOINT AT", cnt, '\n' + "-------------------")
-		with open('eduCSV6.csv', mode='a', encoding = "UTF-8") as eduCSV:
+		with open('eduCSV11.csv', mode='a', encoding = "UTF-8") as eduCSV:
 			fieldnames = ['wikidata_code_B', 'education']
 			writer = csv.DictWriter(eduCSV, fieldnames=fieldnames)
 			if(cnt < 11): # Write header only at first checkpoint

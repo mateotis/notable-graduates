@@ -38,3 +38,38 @@ Parsed 2000 people.
 Education found for: 943
 Education missing for:  1057
 Execution time: 3127.249726199996
+
+
+CODELIST7.TXT
+Parsed 2000 people.
+Education found for: 799
+Education missing for:  1201
+Execution time: 3999.9334368000004
+
+
+CODELIST8.TXT
+Parsed 2000 people.
+Education found for: 761
+Education missing for:  1239
+Execution time: 3275.564661799999
+
+
+CODELIST9.TXT
+Parsed 2000 people.
+Education found for: 617
+Education missing for:  1383
+Execution time: 3683.726914300001
+
+
+CODELIST10.TXT
+Parsed 2000 people.
+Education found for: 499
+Education missing for:  1501
+Execution time: 2182.149626899998
+
+
+CODELIST11.TXT
+Parsed 2102 people.
+Education found for: 356
+Education missing for:  1741
+Execution time: 1686.0977902
