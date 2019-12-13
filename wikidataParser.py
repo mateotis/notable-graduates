@@ -42,9 +42,9 @@ for name in codeList:
 		continue
 	person = WikidataItem(personDict)
 
-	claim_groups = person.get_truthy_claim_groups() # Have no idea what this does
+	claim_groups = person.get_truthy_claim_groups() # Gets a person's different Wikidata attributes
 	try:
-		eduGroups = claim_groups["P69"] # Grabs person's education
+		eduGroups = claim_groups["P69"] # Grabs person's education from those attributes
 		foundCount += 1
 	except:
 		print(str(cnt) + ".", "Education not there for", person.get_label())
@@ -70,7 +70,7 @@ for name in codeList:
 
 	if(cnt % 10 == 0 or readyToAppend == True): # Write to file after 10 processed entries
 		print("-------------------", '\n', "CHECKPOINT AT", cnt, '\n' + "-------------------")
-		with open('eduCSV11.csv', mode='a', encoding = "UTF-8") as eduCSV:
+		with open('eduCSV.csv', mode='a', encoding = "UTF-8") as eduCSV:
 			fieldnames = ['wikidata_code_B', 'education']
 			writer = csv.DictWriter(eduCSV, fieldnames=fieldnames)
 			if(cnt < 11): # Write header only at first checkpoint
@@ -79,7 +79,19 @@ for name in codeList:
 				writer.writerow({'wikidata_code_B': qcode, 'education': eduDict[qcode]})
 		eduDict = {}
 		eduList = []
-		readyToAppend = False		
+		readyToAppend = False
+
+with open('eduCSV.csv', mode='a', encoding = "UTF-8") as eduCSV: # One final addition to take care of the remaining entries
+	fieldnames = ['wikidata_code_B', 'education']
+	writer = csv.DictWriter(eduCSV, fieldnames=fieldnames)
+	if(cnt < 11): # Write header only at first checkpoint
+		writer.writeheader()
+	for qcode in eduDict:
+		writer.writerow({'wikidata_code_B': qcode, 'education': eduDict[qcode]})
+
+eduDict = {}
+eduList = []
+readyToAppend = False
 
 print("Parsed", cnt, "people.")
 print("Education found for:", foundCount)
