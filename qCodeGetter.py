@@ -5,7 +5,7 @@ import csv
 uniList = []
 uniDict = {}
 
-f = open("top200.txt","r")
+f = open("top200links.txt","r")
 codes = f.read().splitlines()
 for line in codes:
 	uniList.append(line)
